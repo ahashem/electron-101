@@ -1,5 +1,7 @@
 # electron-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahashem/electron-101.svg)](https://greenkeeper.io/)
+
 A minimalistic boilerplate for [Electron runtime](http://electron.atom.io). Tested on macOS, Windows and Linux.  
 
 This project doesn't impose on you any frontend framework and tries to give you only the 'electron' part of technology stack with bare minimum of dependencies. This enables you to pick your favourite tools to build the actual app.

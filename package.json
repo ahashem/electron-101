@@ -22,26 +22,26 @@
     "zip:win": "rimraf releases && mkdir releases && bestzip releases/EBP-win32-x64.zip EBP-win32-x64/*"
   },
   "dependencies": {
-    "fs-jetpack": "^1.0.0"
+    "fs-jetpack": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.5",
     "@babel/preset-env": "^7.0.0-beta.5",
     "babel-loader": "^8.0.0-beta.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "bestzip": "^1.1.4",
+    "bestzip": "^2.1.2",
     "chai": "^4.1.0",
-    "css-loader": "^0.28.7",
-    "electron": "1.7.9",
-    "electron-builder": "^19.43.3",
-    "electron-mocha": "^4.0.0",
-    "electron-packager": "^10.1.0",
+    "css-loader": "^1.0.1",
+    "electron": "3.0.9",
+    "electron-builder": "^20.34.0",
+    "electron-mocha": "^6.0.4",
+    "electron-packager": "^12.2.0",
     "friendly-errors-webpack-plugin": "^1.6.1",
-    "mocha": "^4.0.1",
+    "mocha": "^5.2.0",
     "source-map-support": "^0.5.0",
-    "spectron": "^3.7.2",
-    "style-loader": "^0.19.0",
-    "webpack": "^3.8.1",
+    "spectron": "^5.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.25.1",
     "webpack-merge": "^4.1.0",
     "webpack-node-externals": "^1.6.0"
   }
